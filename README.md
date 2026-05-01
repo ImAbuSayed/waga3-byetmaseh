@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> روحي تنادي في سكون الليل
+> نبض الغرام يفيض مثل السيل
+> عطري يفوح في كل مكان
+> أبحث عنكِ في هذا الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
