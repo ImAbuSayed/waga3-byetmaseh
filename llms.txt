@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Waga3 Byetmaseh |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 02, 2026 |
+| Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waga3-byetmaseh/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> روحي تنادي في سكون الليل
+> نبض الغرام يفيض مثل السيل
+> عطري يفوح في كل مكان
+> أبحث عنكِ في هذا الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
