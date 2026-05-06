@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 01, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/waga3-byetmaseh/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Waga3 Byetmaseh](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
